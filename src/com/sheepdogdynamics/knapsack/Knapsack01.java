@@ -10,7 +10,7 @@ public class Knapsack01 {
     private Item[] items;
     private int capacity;
 
-    ArrayList<Item> solution = new ArrayList<>();
+    private ArrayList<Item> solution = new ArrayList<>();
 
     public Knapsack01(Item[] initItems, int initCapacity)
     {

@@ -11,7 +11,6 @@ public class Main {
         System.out.println(Fibonacci.numberAtPosition(8));
         System.out.println(Fibonacci.numberAtPosition(2));
 
-        // 1 1, 3 4, 4 5, 5 7
         Item eggs = new Item("Eggs", 2, 25);
         Item sword = new Item("Sword", 3, 6);
         Item mug = new Item("Mug",6, 2);
