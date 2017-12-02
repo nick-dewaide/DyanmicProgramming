@@ -3,9 +3,9 @@ package com.sheepdogdynamics.fibonacci;
 import java.util.ArrayList;
 
 /**
- * Created by Gladys on 12/1/2017.
+ * Created by Nick on 12/1/2017.
  */
-public class Fibonacci {
+public abstract class Fibonacci {
     private static ArrayList<Integer> currentSequence = new ArrayList<>();
 
     /**
